@@ -26,7 +26,8 @@ My analysis revealed several key insights, including a major sales peak in Novem
 
 ### Link: https://public.tableau.com/shared/BY2HH6CM2?:display_count=n&:origin=viz_share_link
 
-<img width="1913" height="1044" alt="Screenshot 2025-08-01 174301" src="https://github.com/user-attachments/assets/a0ddc5d9-cb6f-4578-98a1-d3074cb9ee6a" />
+<img width="1913" height="1047" alt="image" src="https://github.com/user-attachments/assets/5664578d-9893-40c3-b626-79f0fb0bb3af" />
+
 
 
 ## The dataset used for this analysis was sourced from Kaggle and contains information on orders, order-items, customers, products, and payments
