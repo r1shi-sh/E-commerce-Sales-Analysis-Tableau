@@ -333,5 +333,4 @@ FROM Customers C
 JOIN Orders O ON C.Customer_id = O.Customer_id
 JOIN Payments P ON O.Order_id = P.Order_id
 GROUP BY C.Customer_state
-
 ORDER BY TotalRevenue DESC;
