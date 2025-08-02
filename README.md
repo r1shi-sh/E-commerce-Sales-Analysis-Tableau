@@ -33,4 +33,4 @@ My analysis revealed several key insights, including a major sales peak in Novem
 ### Link: https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset?resource=download
 
 ## SQL Queries
-The SQL scripts used for this analysis can be found in the `sql_scripts` folder in this repository. The queries cover data exploration, joining tables, and advanced analysis using CTEs and window functions.
+The SQL scripts used for this analysis can be found in the `brazil_e-commerce_eda` folder in this repository. The queries cover data exploration, joining tables, and advanced analysis using CTEs and window functions.
